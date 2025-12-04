@@ -187,7 +187,7 @@ If you use this code in your research, please cite:
   publisher    = {Zenodo},
   version      = {v1.0.0},
   doi          = {10.5281/zenodo.XXXXXX},
-  url          = {https://github.com/[YOUR_USERNAME]/nanofluids-ai-wp1-toy-model}
+  url          = {https://github.com/renee29/nanofluids-ai-wp1-toy-model}
 }
 ```
 
