@@ -186,7 +186,7 @@ If you use this code in your research, please cite:
   year         = {2025},
   publisher    = {Zenodo},
   version      = {v1.0.0},
-  doi          = {10.5281/zenodo.XXXXXX},
+  doi          = {10.5281/zenodo.17814630},
   url          = {https://github.com/renee29/nanofluids-ai-wp1-toy-model}
 }
 ```
