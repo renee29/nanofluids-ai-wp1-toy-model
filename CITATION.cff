@@ -1,0 +1,20 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+type: software
+title: "NanoFluids-AI: WP1 Toy Model Verification"
+abstract: "Analytical verification of non-local Gaussian kernel behavior under nanoconfinement. Demonstrates how geometric confinement induces effective anisotropy in isotropic molecular response kernels for the NanoFluids-AI ERC Consolidator Grant project."
+authors:
+  - family-names: "NanoFluids-AI"
+    name: "Team"
+repository-code: "https://github.com/[YOUR_USERNAME]/nanofluids-ai-wp1-toy-model"
+url: "https://github.com/[YOUR_USERNAME]/nanofluids-ai-wp1-toy-model"
+keywords:
+  - nanoconfinement
+  - non-local kernels
+  - dielectric anisotropy
+  - Gaussian convolution
+  - nanofluids
+  - ERC
+license: MIT
+version: 1.0.0
+date-released: 2025-12-04
